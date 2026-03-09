@@ -1,7 +1,7 @@
-###creacion de archivo para carpeta de prueba
+### creacion de archivo para carpeta de prueba
 
-##voy a crear este archivo dentro de la carpeta de prueba y subirlo a GitHub, la carpeta y el archivo.
+## voy a crear este archivo dentro de la carpeta de prueba y subirlo a GitHub, la carpeta y el archivo.
 
-#AUTOR
+# AUTOR
 Sergio Barroso Milán
 
